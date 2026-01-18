@@ -11,9 +11,10 @@
   <a href="https://www.linkedin.com/in/léo-azaïs-8aab71379">
     <img src="https://img.shields.io/badge/LinkedIn-Connectons_nous-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:leo.azais@laposte.net">
-    <img src="https://img.shields.io/badge/Email-Me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+
+  <p>
+    📧 <a href="mailto:leo.azais@laposte.net">leo.azais@laposte.net</a>
+  </p>
 
 </div>
 
@@ -36,28 +37,4 @@ Mon objectif : **Trouver un stage** où je pourrai apporter ma curiosité et mes
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/SQL_&_PL/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-
-**Web & Outils**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-## 🚀 Projet récent
-
-### [Émulateur RISC-V (RV32I)](https://github.com/Leo6659/emulateur_RV32I)
-*Développement d'un émulateur de processeur complet en langage C.*
-* **Objectif :** Comprendre le cycle Fetch-Decode-Execute et la gestion mémoire bas niveau.
-* **Concepts clés :** Masques binaires, décalages, architecture des ordinateurs.
-
----
-
-<div align="center">
-  <small>Profil généré pour Léo Azaïs • 2025</small>
-</div>
+  <img src="
