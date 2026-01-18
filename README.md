@@ -55,8 +55,4 @@ Mon objectif du moment : **Trouver un stage** où je pourrai apporter ma curiosi
 * **Objectif :** Comprendre le cycle Fetch-Decode-Execute et la gestion mémoire bas niveau.
 * **Concepts clés :** Masques binaires, décalages, architecture des ordinateurs.
 
----
 
-<div align="center">
-  <small>Profil généré pour Léo Azaïs • 2025</small>
-</div>
