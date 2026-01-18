@@ -52,5 +52,5 @@ Mon objectif du moment : **Trouver un stage** où je pourrai apporter ma curiosi
 
 | Projet | Description | Technologies |
 | :--- | :--- | :--- |
-| **[Émulateur RISC-V](https://github.com/Leo6659/emulateur_RV32I)** | Émulation complète d'un processeur RV32I. Permet de visualiser l'exécution du code machine et la gestion mémoire. | `C` `Architecture` `Make` |
-| **[Projet Futur]** | *Espace réservé pour ton prochain gros projet de L2 ou L3.* | `Python` `SQL` |
+| **[Émulateur RISC-V](https://github.com/Leo6659/emulateur_RV32I)** | Émulation complète d'un processeur RV32I. Permet de visualiser l'exécution du code machine et la gestion mémoire. | `C` `Architecture`  |
+
