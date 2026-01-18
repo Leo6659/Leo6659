@@ -22,7 +22,7 @@
 
 ## 🎓 À propos de moi
 
-Passionné par les sciences et notemment l'informatique et les  mathématiques, je suis actuellement en **L2 Informatique**. 
+Passionné par les sciences et notamment l'informatique et les  mathématiques, je suis actuellement en **L2 Informatique**. 
 
 Mon objectif du moment : **Trouver un stage** où je pourrai apporter ma curiosité et mes compétences techniques.
 
