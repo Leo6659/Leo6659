@@ -48,11 +48,9 @@ Mon objectif du moment : **Trouver un stage** où je pourrai apporter ma curiosi
 
 ---
 
-## 🚀 Projet récent
+## 🏆 Projets
 
-### [Émulateur RISC-V (RV32I)](https://github.com/Leo6659/emulateur_RV32I)
-*Développement d'un émulateur de processeur complet en langage C.*
-* **Objectif :** Comprendre le cycle Fetch-Decode-Execute et la gestion mémoire bas niveau.
-* **Concepts clés :** Masques binaires, décalages, architecture des ordinateurs.
-
-
+| Projet | Description | Technologies |
+| :--- | :--- | :--- |
+| **[Émulateur RISC-V](https://github.com/Leo6659/emulateur_RV32I)** | Émulation complète d'un processeur RV32I. Permet de visualiser l'exécution du code machine et la gestion mémoire. | `C` `Architecture` `Make` |
+| **[Projet Futur]** | *Espace réservé pour ton prochain gros projet de L2 ou L3.* | `Python` `SQL` |
