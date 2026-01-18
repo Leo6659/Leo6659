@@ -22,11 +22,9 @@
 
 ## 🎓 À propos de moi
 
-Passionné par le développement logiciel et l'architecture des machines, je suis actuellement en **L2 Informatique**. 
+Passionné par les sciences et notemment l'informatique et les  mathématiques, je suis actuellement en **L2 Informatique**. 
 
-Mon parcours est marqué par une **rigueur académique** (L1 validée Mention Bien, classé 5ème de promotion) et une volonté constante de comprendre ce qu'il se passe "sous le capot".
-
-Mon objectif : **Trouver un stage** où je pourrai apporter ma curiosité et mes compétences techniques.
+Mon objectif du moment : **Trouver un stage** où je pourrai apporter ma curiosité et mes compétences techniques.
 
 ---
 
