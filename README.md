@@ -5,9 +5,9 @@
 
 
 # Je suis à la recherche de stage ou de collaborations des ces domaine :
--Informatique quantique
--algorithmie
--calcul haute performance 
--
+- Informatique quantique
+- algorithmie
+- calcul haute performance 
+
 
 
