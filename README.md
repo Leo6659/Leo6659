@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Bonjour, je suis Léo Azaïs 👋
+  Léo Azaïs 
 
   ### Étudiant en Licence Informatique (L2)
   
